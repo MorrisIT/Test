@@ -1,2 +1,2 @@
-public class Hej {
+public class Hej {lololo
 }
